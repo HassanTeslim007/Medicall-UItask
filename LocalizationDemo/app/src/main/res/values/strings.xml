@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="text_hello">Hello! How are you?</string>
+</resources>
